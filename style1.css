@@ -1,0 +1,120 @@
+body {
+    margin: 0 ;
+    padding: 0 ;
+    background-color: brown;
+}
+.container {
+    width: 1366px;
+    height: 900px;
+    background-color: #ffffff;
+    margin: 10px auto;
+}
+.header {
+    width: 1366px ;
+    height: 60px ;
+    background-color:brown ;
+    border-bottom: solid 10px brown;
+}
+.h1 {
+    margin: 5px;
+    float: left;
+    width: 200px;
+    height: 30px;
+    background-color: white;
+}
+.h2 {
+    margin: 5px;
+    float: right;
+    width: 100px;
+    height: 30px;
+    background-color: white;
+}
+.h3 {
+    margin: 5px;
+    float: right;
+    width: 100px;
+    height: 30px;
+    background-color: white;
+}
+.h4 {
+    margin: 5px;
+    float: right;
+    width: 100px;
+    height: 30px;
+    background-color: white;
+}
+.h5 {
+    margin: 5px;
+    float: right;
+    width: 100px;
+    height: 30px;
+    background-color: white;
+}
+.h6 {
+    margin: 5px;
+    float: right;
+    width: 100px;
+    height: 30px;
+    background-color: white;
+}
+
+.content {display:table;}
+.left-sidebar {
+    margin: 5px;
+    float: left;
+    width: 800px;
+    height: 400px;
+    background-color: gray;
+}
+.right-sidebar {
+    margin: 5px;
+    float:left;
+    width: 100px;
+    height: 100px;
+    background-color: gray;
+}
+.p {
+    margin: 5px;
+    float: left;
+    width: 400px;
+    height: 20px;
+    background-color: gray;
+}
+.p {
+    margin: 5px;
+    float: left;
+    width: 400px;
+    height: 20px;
+    background-color: gray;
+}
+
+.post {
+    margin: 10px;
+    padding: 10px;
+    float: right;
+    width: 400px;
+    height: 200px;
+    background-color:gray;
+}
+.post {
+    margin: 10px;
+    padding: 10px;
+    float: right;
+    width: 400px;
+    height: 200px;
+    background-color:gray;
+}
+.post {
+    margin: 10px;
+    padding: 10px;
+    float: left;
+    width: 400px;
+    height: 200px;
+    background-color:gray;
+}
+.footer {
+    margin: 5px;
+    width: 1366px;
+    height: 80px;
+    background-color: brown;
+}
